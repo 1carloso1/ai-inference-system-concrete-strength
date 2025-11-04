@@ -26,7 +26,7 @@ Figure below summarizes the proposed workflow, highlighting the main stages of t
 *Blue lines* group the iterative steps applied individually to each dataset, whereas *black lines* indicate the global stages performed once for the entire study.  
 This methodological design ensured result traceability, algorithm and dataset comparability, and the practical transfer of knowledge toward the experimental validation of the developed inference system.
 
-![Research Design and Workflow](results/methodology/Method_diagram.png)
+![Research Design and Workflow](results/Methodology/Method_diagram.png)
 
 
 ### Evaluated Models
@@ -52,7 +52,7 @@ All datasets are open-access and properly cited below:
 | # | Dataset | Description | DOI / Link |
 |:-:|:--|:--|:--|
 | **1** | *Concrete Compressive Strength* (Yeh, 1998) | High-Performance Concrete (HPC) mixes tested at National Chiao Tung University, Taiwan. | [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength) |
-| **2** | *Concrete Compressive Strength and Slump Dataset* (Ke & Lu, 2024) | Normal concrete (NC) mixes used in highway engineering; includes compressive strength and slump data. | [Mendeley Data — DOI: 10.17632/zrsbhndz9f.1](https://data.mendeley.com/datasets/zrsbhndz9f/1) |
+| **2** | *Concrete Compressive Strength and Slump Dataset* (Ke--Qiu, 2024) | Normal concrete (NC) mixes used in highway engineering; includes compressive strength and slump data. | [Mendeley Data — DOI: 10.17632/zrsbhndz9f.1](https://data.mendeley.com/datasets/zrsbhndz9f/1) |
 | **3** | *Recycled Aggregate Concrete with Fly Ash, GGBS, and Metakaolin* (Biswal et al., 2022) | Experimental dataset from IIT Bhubaneswar, India, including recycled aggregates and supplementary cementitious materials. | [Mendeley Data — DOI: 10.17632/5wkxzmzwnz.2](https://data.mendeley.com/datasets/5wkxzmzwnz/2) |
 
 > *No new experimental data were generated in this study. All datasets are freely available through the corresponding repositories above.*
