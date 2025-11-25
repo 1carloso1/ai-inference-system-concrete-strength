@@ -104,3 +104,15 @@ This project was developed and executed in **Google Colab**, using the **Python 
    ```
 
 ## Citation
+
+- **MDPI and ACS Style**
+Olvera-Mayorga, C.E.; López-Martínez, M.d.J.; Rodríguez-Rodríguez, J.A.; Vázquez-Reyes, S.; Solís-Sánchez, L.O.; de la Rosa-Vargas, J.I.; Duarte-Correa, D.; González-Aviña, J.V.; Olvera-Olvera, C.A. AI-Based Inference System for Concrete Compressive Strength: Multi-Dataset Analysis of Optimized Machine Learning Algorithms. Appl. Sci. 2025, 15, 12383. https://doi.org/10.3390/app152312383
+
+- **AMA Style**
+Olvera-Mayorga CE, López-Martínez MdJ, Rodríguez-Rodríguez JA, Vázquez-Reyes S, Solís-Sánchez LO, de la Rosa-Vargas JI, Duarte-Correa D, González-Aviña JV, Olvera-Olvera CA. AI-Based Inference System for Concrete Compressive Strength: Multi-Dataset Analysis of Optimized Machine Learning Algorithms. Applied Sciences. 2025; 15(23):12383. https://doi.org/10.3390/app152312383
+
+- **Chicago/Turabian Style**
+Olvera-Mayorga, Carlos Eduardo, Manuel de Jesús López-Martínez, José A. Rodríguez-Rodríguez, Sodel Vázquez-Reyes, Luis O. Solís-Sánchez, José I. de la Rosa-Vargas, David Duarte-Correa, José Vidal González-Aviña, and Carlos A. Olvera-Olvera. 2025. "AI-Based Inference System for Concrete Compressive Strength: Multi-Dataset Analysis of Optimized Machine Learning Algorithms" Applied Sciences 15, no. 23: 12383. https://doi.org/10.3390/app152312383
+
+- **APA Style**
+Olvera-Mayorga, C. E., López-Martínez, M. d. J., Rodríguez-Rodríguez, J. A., Vázquez-Reyes, S., Solís-Sánchez, L. O., de la Rosa-Vargas, J. I., Duarte-Correa, D., González-Aviña, J. V., & Olvera-Olvera, C. A. (2025). AI-Based Inference System for Concrete Compressive Strength: Multi-Dataset Analysis of Optimized Machine Learning Algorithms. Applied Sciences, 15(23), 12383. https://doi.org/10.3390/app152312383
